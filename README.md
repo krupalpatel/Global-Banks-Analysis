@@ -12,4 +12,4 @@ This Repo contains major global banks datasets and notebooks.
 2. Goldman Sachs
 3. JP Morgan Chase & Co
 4. CitiGroup
-5. HSBC
+5. HSBC (Part:1 & Part:2)
