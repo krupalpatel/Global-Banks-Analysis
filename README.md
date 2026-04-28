@@ -4,8 +4,8 @@ This Repo contains major global banks datasets and notebooks.
 * Visuals
 * Strategy
 * Trading
-* Advance Analysis
 * Regime
+  
 
 
 1. bank of America (Part: 1(Updated) & Part: 2)
