@@ -1,7 +1,7 @@
 # Global-Banks-Analysis
 This Repo contains major global banks datasets and notebooks.
 
-* Visuals
+* Visualizations 
 * Trading Strategies
 * Regime Detection
 * Analysis
