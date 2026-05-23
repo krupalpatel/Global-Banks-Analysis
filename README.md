@@ -7,6 +7,7 @@ This Repo contains major global banks datasets and notebooks.
 * Trading Strategies
 * Regime Detection
 * Analysis
+* Charts
   
 
 
